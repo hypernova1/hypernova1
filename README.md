@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![hypernova1 github stats](https://github-readme-stats.vercel.app/api?username=hypernova1&show_icons=true)
+
 <!--
 **hypernova1/hypernova1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
