@@ -1,10 +1,10 @@
 ### 안녕하세요. 저는 자바를 좋아합니다. 👋
 
 ![hypernova1 github stats](https://github-readme-stats.vercel.app/api?username=hypernova1&show_icons=true)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hypernova1&repo=java-http-server)](https://github.com/hypernova1/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hypernova1&repo=sam-s-pring)](https://github.com/hypernova1/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hypernova1&repo=TIL)](https://github.com/hypernova1/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hypernova1&repo=algorithm)](https://github.com/hypernova1/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hypernova1&repo=java-http-server)](https://github.com/hypernova1/java-http-server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hypernova1&repo=sam-s-pring)](https://github.com/hypernova1/sam-s-pring)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hypernova1&repo=TIL)](https://github.com/hypernova1/TIL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hypernova1&repo=algorithm)](https://github.com/hypernova1/algorithm)
 <!--
 **hypernova1/hypernova1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
