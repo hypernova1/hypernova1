@@ -1,8 +1,6 @@
 ### 안녕하세요. 자바를 좋아하는 프로그래머입니다. 👋
 
-![hypernova1's github stats](https://github-readme-stats.vercel.app/api?username=hypernova1&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hypernova1&repo=sambastian)](https://github.com/hypernova1/java-server-framework)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hypernova1&repo=sam-s-pring)](https://github.com/hypernova1/sam-s-pring)
+![hypernova1's github stats](https://github-readme-stats.vercel.app/api?username=hypernova1&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <!--
 **hypernova1/hypernova1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
