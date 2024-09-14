@@ -1,4 +1,4 @@
-### 안녕하세요. 자바를 좋아하는 프로그래머입니다. 👋
+### 안녕하세요. 백엔드 개발자 권샘찬입니다. 👋
 
 ![hypernova1's github stats](https://github-readme-stats.vercel.app/api?username=hypernova1&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <!--
